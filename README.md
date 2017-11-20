@@ -1,0 +1,2 @@
+# about_strong_copy
+关于Objective-C里类的属性修饰词strong和copy的一些区别。
